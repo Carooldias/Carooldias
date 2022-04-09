@@ -9,8 +9,7 @@
 </p>
 
 <br>
-<p align="justify">
-<img src="./Assets/Point_Down.gif" height="32px"> Connect with me <img src="./Assets/Point_Down.gif" height="32px">
+Connect with me
 </p>
 
 
